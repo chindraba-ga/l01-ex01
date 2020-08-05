@@ -1,6 +1,7 @@
 # l01-ex01
 
-- Status: Pending
+-  Status: Pending
+-  Live page: <http://www.chindraba.work/fewd/l01-ex01.html>
 
 ## Contents
 
@@ -11,7 +12,7 @@
 ---
 ## Description
 
-Guided Walk-Through: Press Release
+### Lesson 1: Guided Walk-Through: Press Release
 
 Let's make a press release together: We'll take plain old text and apply HTML tags to define certain sections according to their role in the document.
 
@@ -30,7 +31,7 @@ The starter code is:
     Berlin, Boston, Hong Kong, London, Los Angeles, New York City, San Francisco, Sydney, Washington D.C
 
     For more information, visit General Assembly's
-
+    
 [TOP](#contents)
 
 ---

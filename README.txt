@@ -1,5 +1,6 @@
 l01-ex01
 * Status: Pending
+* CodePen: <https://codepen.io/chindraba-ga/pen/PoNozVE>
 * Live page: <http://www.chindraba.work/fewd/l01-ex01.html>
 
 Contents
